@@ -1,6 +1,7 @@
 # Личный проект «Нёрдс»
 
 * Студент: [Николай Волчков](https://up.htmlacademy.ru/htmlcss/17/user/400149).
+* Наставник: [Дмитрий Мальнев](https://htmlacademy.ru/profile/fuckomako).
 
 ---
 
