@@ -1,0 +1,26 @@
+body {
+	font-family: "Roboto", "Arial", sans-serif;
+	font-size: 16pt;
+	font-weight: normal;
+	line-height: 24pt;
+	color: rgb(0, 0, 0);
+}
+h1 {
+	font-size: 55pt;	
+	line-height: 55pt;
+}
+h2 {
+	font-size: 45pt;	
+	line-height: 45pt;
+}
+.percents h2 {
+	font-size: 45pt;	
+}
+.main-footer h2 {
+	font-size: 36pt;	
+}
+.catalog-filters h2,
+.catalog-items h2,
+.address h2 {
+	font-size: 18pt;
+}
